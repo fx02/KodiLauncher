@@ -1,0 +1,4 @@
+g:\!Dokumenti\Zvonimir\Doom\Source\KodiLauncher\KodiLauncher\bin\Debug\KodiLauncher.exe
+g:\!Dokumenti\Zvonimir\Doom\Source\KodiLauncher\KodiLauncher\bin\Debug\KodiLauncher.pdb
+g:\!Dokumenti\Zvonimir\Doom\Source\KodiLauncher\KodiLauncher\obj\Debug\KodiLauncher.exe
+g:\!Dokumenti\Zvonimir\Doom\Source\KodiLauncher\KodiLauncher\obj\Debug\KodiLauncher.pdb
