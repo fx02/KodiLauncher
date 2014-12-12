@@ -14,7 +14,7 @@ You have to replace "ehshell.exe" located in
 
 How to replace ehshell.exe?
 ===========================
-Yo have to change permissions:
+You have to change permissions:
 1. Open in Explorer "C:\Windows\ehome"
 2. In "ehome" directory, right click "ehshell.exe" and choose "Properties"
 3. Click on the "Security" tab and then "Advanced" button at the bottom.
@@ -22,7 +22,7 @@ Yo have to change permissions:
 5. Select "Administrators" and hit "OK."
 6. Click "OK" in the "Advanced Security Settings for ehshell.exe" dialog.
 7. In the "ehshell.exe Properties" dialog, click on "Administrators" under
-    "Group or user names" and click the "Edit" button.
+   "Group or user names" and click the "Edit" button.
 8. Select "Administrators" (or add that group if it isn't already there)
     and check the "Full Control" box in the Allow column.
 9. "OK" out of all the properties and permissions dialogs.
