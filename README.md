@@ -42,6 +42,5 @@ Optional:
 Original source and all credits for this tool goes to:
 http://inchoatethoughts.com/
 
-Modified by:
-http://www.zvonimirbuzanic.com/
+Modified by Zvonimir Buzanic
 #########################################################################
